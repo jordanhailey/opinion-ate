@@ -1,7 +1,11 @@
-# Getting Started with Create React App
+# Opinion-ate
+An app for tracking reviews of dishes at different restaurants. Built while learning E2E TDD from [outsidein.dev](https://outsidein.dev/react/).
+> NOTE: Dependencies are locked with a `yarn.lock` file, so `yarn` is recommended for installing them.
+
+App is hosted on Netlify at <https://agitated-mestorf-a48baa.netlify.app/>
+> [![Netlify Status](https://api.netlify.com/api/v1/badges/067845cb-bcf9-4c80-95ca-7edb2fa883f6/deploy-status)](https://app.netlify.com/sites/agitated-mestorf-a48baa/deploys)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
